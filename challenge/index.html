@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>30-Day Challenge | One Real Meal</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:wght@600;700&family=Sora:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/assets/css/style.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container nav-wrap">
+        <a class="logo" href="/index.html">One Real Meal</a>
+        <nav class="nav-links" id="site-nav">
+          <a href="/start-here/">Start Here</a>
+          <a href="/challenge/">30-Day Challenge</a>
+          <a href="/recipes/">Recipes</a>
+          <a href="/resources/">Resources</a>
+          <a href="/blog/">Blog</a>
+          <a href="/about/">About</a>
+        </nav>
+        <div class="nav-cta">
+          <a class="btn btn-primary" href="/resources/">Get the Free Packet</a>
+        </div>
+        <button class="nav-toggle" data-nav-toggle>Menu</button>
+      </div>
+    </header>
+
+    <main>
+      <section class="section">
+        <div class="container hero">
+          <div>
+            <p class="kicker">Free Challenge</p>
+            <h1>The One Real Meal 30-Day Challenge</h1>
+            <p>We will guide you with daily emails and a simple tracker.</p>
+            <a class="btn btn-primary" href="#challenge-form">Start the free challenge</a>
+          </div>
+          <div class="hero-card">
+            <h3>What you get</h3>
+            <div class="pill-list">
+              <span class="pill">30 daily emails</span>
+              <span class="pill">Printable calendar</span>
+              <span class="pill">Weight trend tracker</span>
+              <span class="pill">Recipe pack</span>
+              <span class="pill">Grocery lists</span>
+              <span class="pill">Plateau fixes</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="container">
+          <h2>The weekly rhythm</h2>
+          <div class="card-grid">
+            <article class="card">
+              <h3>Week 1</h3>
+              <p>Start simple, get consistent.</p>
+            </article>
+            <article class="card">
+              <h3>Week 2</h3>
+              <p>Cravings drop, routine forms.</p>
+            </article>
+            <article class="card">
+              <h3>Week 3</h3>
+              <p>Dial in portions and snack creep.</p>
+            </article>
+            <article class="card">
+              <h3>Week 4</h3>
+              <p>Lock it in and plan your next 30.</p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="container banner">
+          <div>
+            <h2>Win without perfection</h2>
+            <ul>
+              <li>Miss a day? Continue the next day.</li>
+              <li>The trend matters more than any single day.</li>
+            </ul>
+          </div>
+          <div>
+            <h3>Tracker preview</h3>
+            <div id="challenge-tracker" class="tracker-grid"></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section">
+        <div class="container">
+          <h2>Challenge FAQ</h2>
+          <div class="accordion">
+            <div class="accordion-item">
+              <button class="accordion-trigger">Can I travel during the challenge?</button>
+              <div class="accordion-panel">Yes. Keep the rules simple and repeatable on the road.</div>
+            </div>
+            <div class="accordion-item">
+              <button class="accordion-trigger">What about eating out?</button>
+              <div class="accordion-panel">Use the Real Meal rules and keep snacks protein-forward.</div>
+            </div>
+            <div class="accordion-item">
+              <button class="accordion-trigger">Is alcohol allowed?</button>
+              <div class="accordion-panel">We recommend skipping or limiting alcohol to protect momentum.</div>
+            </div>
+            <div class="accordion-item">
+              <button class="accordion-trigger">What if I am hungry?</button>
+              <div class="accordion-panel">Increase protein and volume at your Real Meal.</div>
+            </div>
+            <div class="accordion-item">
+              <button class="accordion-trigger">Do workouts change the plan?</button>
+              <div class="accordion-panel">Focus on recovery and keep the structure consistent.</div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="challenge-form">
+        <div class="container banner">
+          <div>
+            <h2>Start the free challenge</h2>
+            <p>Customize your emails and get the packet instantly.</p>
+          </div>
+          <form class="form js-cta-form">
+            <input type="email" placeholder="Email address" required />
+            <label>
+              <input type="checkbox" checked /> Send me the Resource Packet
+            </label>
+            <label>
+              <input type="checkbox" checked /> Start the 30-Day Daily Emails
+            </label>
+            <select>
+              <option value="">What is your biggest struggle?</option>
+              <option>Lose weight</option>
+              <option>Maintain</option>
+              <option>Reduce cravings</option>
+              <option>Simplicity</option>
+            </select>
+            <button class="btn btn-primary" type="submit">Start the challenge</button>
+            <p class="form-success success" hidden>Success! Check your inbox.</p>
+          </form>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <div class="container footer-grid">
+        <div>
+          <h3>One Real Meal</h3>
+          <p>Educational content, not medical advice.</p>
+        </div>
+        <div>
+          <h4>Get the Free Packet</h4>
+          <form class="form js-cta-form">
+            <input type="email" placeholder="Email address" required />
+            <button class="btn btn-primary" type="submit">Send it</button>
+            <p class="form-success success" hidden>Success! Check your inbox.</p>
+          </form>
+        </div>
+        <div>
+          <h4>Links</h4>
+          <div class="pill-list">
+            <a href="/faq/">FAQ</a>
+            <a href="/contact/">Contact</a>
+            <a href="/privacy.html">Privacy</a>
+            <a href="/terms.html">Terms</a>
+          </div>
+        </div>
+        <div>
+          <h4>Social</h4>
+          <div class="pill-list">
+            <a href="#">Instagram</a>
+            <a href="#">YouTube</a>
+            <a href="#">Pinterest</a>
+          </div>
+        </div>
+      </div>
+      <div class="container section-tight">
+        <small>Educational content, not medical advice.</small>
+      </div>
+    </footer>
+
+    <div class="mobile-cta">
+      <a class="btn btn-primary" href="/resources/">Get the Free Packet</a>
+    </div>
+
+    <script src="/assets/js/main.js"></script>
+    <script src="/assets/js/challenge.js"></script>
+  </body>
+</html>

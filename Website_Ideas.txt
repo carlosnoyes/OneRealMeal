@@ -1,0 +1,636 @@
+Global site structure (unchanged, but framework updated)
+Top nav (simple, sticky)
+
+Start Here
+
+30-Day Challenge
+
+Recipes
+
+Resources
+
+Blog
+
+About
+
+CTA button: Get the Free Packet
+
+Mobile: hamburger menu + persistent bottom sticky button: Get the Free Packet
+
+Footer (trust + conversions)
+
+“Get the Free Packet” email box (again)
+
+Links: FAQ, Contact, Privacy, Terms
+
+Tiny disclaimer: “Educational content, not medical advice.”
+
+Social icons
+
+Design language
+
+Clean, bright “program brand” like Whole30
+
+Big typography, lots of white space, bold buttons
+
+Repeating patterns:
+
+Fuel cards
+
+Rule cards
+
+Download cards
+
+Recipe cards
+
+Email capture pattern (consistent everywhere)
+
+Every page has:
+
+1 primary CTA: Get the Free Packet
+
+1 contextual CTA: “Want the grocery list for this?” / “Want the 30-day calendar?” → same form, different tag
+
+“No backend” 30-day challenge (how it works)
+
+You can still make it feel interactive without accounts:
+
+Option A (best): 30-day email sequence
+
+User enters email → receives packet immediately
+
+Optional checkbox: “Start the 30-Day Challenge emails”
+
+Daily email for 30 days, each includes:
+
+Today’s checklist (3 Fuels + 3 Rules)
+
+Meal idea (supports Fuel 1)
+
+Snack guidance (Fuel 2)
+
+Protein dessert idea (Fuel 3)
+
+“No caloric drinks” reminder (Rule 1)
+
+“Weigh-in reminder” (Rule 2)
+
+30-second mindset tip (Rule 3: repeat)
+
+Option B: Web checklist using local storage
+
+A “Day 1–Day 30” checklist on the site
+
+Progress saved in the browser (localStorage) — no accounts
+
+“Download the printable tracker” as backup
+
+You can do both. Email is the retention engine.
+
+Page-by-page layout (ultimate + updated framework)
+1) Home
+
+Goal: explain the method fast + get email.
+
+Above the fold
+
+Left:
+
+Headline:
+
+“One Real Meal™: End food noise with 3 Fuels + 3 Rules.”
+
+Subhead:
+
+“One satisfying meal. Strategic support. Simple guardrails.”
+
+Primary button: Get the Free Packet
+
+Secondary text link: “See how it works →”
+Right:
+
+lifestyle photo OR “plate hero” image
+Micro trust row:
+
+“Free packet includes: Ebook + Recipe Pack + Weight Tracker + 30-Day Calendar”
+
+Section: The method (updated)
+
+Replace “method in 3 steps” with:
+
+The 3 Fuels (3 horizontal cards)
+
+Fuel 1: One Real Meal
+
+Fuel 2: Strategic Snacks
+
+Fuel 3: Protein Dessert
+Each card:
+
+1-sentence explanation
+
+3 example items
+
+Link: “Learn the fuels → (Start Here)”
+
+The 3 Rules (3 horizontal cards or a vertical checklist)
+
+No Caloric Drinks
+
+Track Weight Daily
+
+Repeat Daily
+Each card:
+
+“What this means”
+
+“Why it exists”
+
+“What not to overthink”
+
+Section: “What does a day look like?”
+
+Timeline graphic:
+
+Morning (zero-cal beverages)
+
+Snack 1 (optional)
+
+Snack 2 (optional)
+
+Real Meal
+
+Protein Dessert
+
+Weigh-in (trend focus)
+
+Section: “The Free 30-Day Challenge”
+
+Big banner block:
+
+“Want structure? We’ll walk you through 30 days.”
+
+Bullets: daily emails, printable calendar, trackers, weekly focus themes
+
+CTA: Send me the free packet + start the challenge
+
+Section: Proof (even if early)
+
+3–6 testimonials
+
+“Common wins” bullets:
+
+fewer cravings
+
+fewer decisions
+
+weight trend improving
+
+dinner feels satisfying
+
+night snacking fades (Fuel 3 doing its job)
+
+Section: FAQ preview (updated wording)
+
+Accordion:
+
+“Is this fasting?”
+
+“Can my Real Meal be lunch?”
+
+“How big should snacks be?”
+
+“Why protein dessert?”
+
+“What about drinks?”
+
+Final CTA strip
+
+Full-width:
+
+“Get the Free Packet in your inbox.”
+
+Email form + button
+
+2) Start Here
+
+Goal: remove confusion; make it doable today.
+
+Hero
+
+“Read this once and you’ll get it.”
+
+CTA: Get the Free Packet
+
+Section: What a day looks like
+
+Timeline graphic (same as home but more detail)
+
+Callouts show “Fuel 1 / Fuel 2 / Fuel 3” and “Rule 1 / Rule 2 / Rule 3”
+
+Section: The 3 Fuels (deep dive)
+
+Each fuel gets its own block:
+
+Fuel 1: One Real Meal
+
+What counts
+
+Structure templates (protein + satisfying sides)
+
+Common mistakes (too small, too chaotic, too many “mini meals”)
+
+Fuel 2: Strategic Snacks
+
+What snacks are / aren’t
+
+Palm-size visual
+
+Examples list
+
+“Snack creep” warning
+
+Fuel 3: Protein Dessert
+
+Why it matters psychologically
+
+Examples (Creami, protein pudding, yogurt bowls, etc.)
+
+“If you skip this, you’ll hunt at night” messaging
+
+Section: The 3 Rules (clear, printable)
+
+Rule Card layout (3 cards now, not 5):
+
+Rule 1: No caloric drinks
+
+Rule 2: Track weight daily
+
+Rule 3: Repeat daily
+
+Each card has: 2–3 clarifications, examples, what not to overthink
+
+Section: Focus vs restriction
+
+Short manifesto:
+
+“This isn’t starvation. It’s focus.”
+
+“You’re not removing joy—you’re concentrating it.”
+
+Section: “Choose your Real Meal style”
+
+Mini quiz (no backend):
+Buttons:
+
+“I like quick & simple”
+
+“I want comfort food”
+
+“I love big salads”
+
+“I want low-carb”
+
+“I eat with family/kids”
+Results:
+
+recommended starter recipe collection + suggested snack + dessert options
+
+Section: Get started tonight
+
+Checklist:
+
+Pick your Real Meal
+
+Choose snacks
+
+Choose protein dessert
+
+Download packet
+
+Start Day 1 email
+CTA: email form
+
+3) 30-Day Challenge page
+
+Goal: make the challenge feel like a product (even though free).
+
+Hero
+
+“The One Real Meal™ 30-Day Challenge (Free)”
+
+“We’ll guide you with daily emails + a simple tracker.”
+
+CTA: Start the free challenge
+
+Section: What you get (3-column)
+
+30 daily emails (Fuel/RULE checklist + meal guidance)
+
+Printable 30-day calendar
+
+Weight trend tracker
+
+Recipe pack
+
+Grocery lists
+
+Plateau fixes
+
+Section: The weekly rhythm (rewritten to match Fuels/Rules)
+
+Week blocks:
+
+Week 1: Install the Fuels
+
+Week 2: Snacks become strategic
+
+Week 3: Dessert locks in adherence
+
+Week 4: Repeat becomes identity
+
+Section: How to “win” without perfection
+
+“Miss a day? Continue the next day.”
+
+“The trend matters.”
+
+“The only ‘fail’ is quitting.”
+
+Challenge FAQ
+
+Accordion:
+
+travel
+
+eating out
+
+alcohol
+
+what if I’m hungry
+
+workouts
+
+Big opt-in form (most important)
+
+Form fields:
+
+Email
+
+Checkbox: “Send me the Resource Packet”
+
+Checkbox: “Start the 30-Day Daily Emails”
+
+Optional dropdown: “Biggest struggle” / “Main goal”
+
+4) Resources (Free Packet landing page)
+
+Goal: maximize opt-ins.
+
+Hero
+
+“The One Real Meal™ Free Resource Packet”
+
+“Everything you need to start today.”
+
+Email form (above fold)
+
+What’s inside (download cards)
+
+Three big cards (each with 3 bullets):
+
+Ebook
+
+3 Fuels + 3 Rules explained
+
+examples & templates
+
+troubleshooting
+
+Weight Tracker
+
+daily weigh-in
+
+rolling average / trend
+
+mindset cues (“data, not judgment”)
+
+Recipe Pack
+
+Real Meal templates + recipes
+
+snack ideas
+
+protein dessert ideas
+
+Add a 4th optional bonus:
+
+“30-Day Wall Calendar (Printable)”
+
+OR “7-Day Jumpstart Grocery List”
+
+Trust + clarity:
+
+“No spam. Unsubscribe anytime.”
+
+“Delivered immediately.”
+
+5) Recipes (SEO-friendly; organized by Fuel)
+
+Goal: make Fuel #1 easy, Fuel #2 smart, Fuel #3 fun.
+
+Recipes index page (updated filters)
+
+Search bar (client-side)
+
+Filter chips:
+
+Fuel 1: Real Meals
+
+Fuel 2: Snacks
+
+Fuel 3: Protein Desserts
+
+Time (10/20/30+)
+
+Protein-first
+
+Family-friendly
+
+Budget
+
+Featured collections:
+
+“Weeknight Real Meals”
+
+“Emergency Snacks”
+
+“Protein Desserts that feel like cheating”
+
+“Sunday prep (optional)”
+
+Recipe detail page template
+
+Title + hero image
+
+Quick facts row (time, servings, fuel type)
+
+Ingredients + steps
+
+“Why it works” (satiety / simplicity)
+
+“Pair it with” (suggest 1 snack + 1 dessert)
+
+CTA box mid-page:
+
+“Want the full free recipe pack + tracker?” → email form
+
+Printable button
+
+6) Blog
+
+Goal: content engine + email capture.
+
+Blog index
+
+Featured post
+
+Categories:
+
+Fuels & Rules
+
+Mindset
+
+Eating out
+
+Plateaus
+
+Family life
+
+Quick wins
+Sidebar CTA: “Get the Free Packet”
+
+Blog post template
+
+Strong intro
+
+Pull quotes
+
+“Do this today” section
+
+End CTA:
+
+“Get the Free Packet”
+
+“Start the 30-Day Challenge emails”
+
+7) About
+
+Goal: trust + identity.
+
+Mission statement
+
+Founder story (short, punchy)
+
+Why 3 Fuels + 3 Rules beats complexity
+
+Who it’s for / not for
+
+CTA: Free packet
+
+8) FAQ
+
+Goal: reduce friction without support staff.
+Accordion sections:
+
+Getting started
+
+Hunger/snacks
+
+Weight expectations
+
+Drinks
+
+Eating out
+
+Travel
+
+Workouts
+CTA after each section: free packet
+
+9) Contact
+
+Goal: legitimacy.
+
+Simple form (Formspree / Google Form)
+
+Partnerships email
+
+Social links
+
+Email collection + file delivery (no backend)
+
+You’ll use an ESP + automation:
+
+What happens when someone opts in
+
+Form submission → ESP adds subscriber
+
+ESP sends “Here’s your Free Packet” instantly
+
+Email includes:
+
+Download links (hosted files / Drive)
+
+“Start the 30-Day Challenge” info
+
+If they checked “Start challenge,” tag them and start the 30-email sequence
+
+Forms you need (3 types)
+
+Main Packet Form (Resources page, Home hero)
+
+Challenge Form (Challenge page, checkbox)
+
+Recipe/Blog CTA Form (embedded; same packet, different tag)
+
+Segmentation (still no backend)
+
+Optional dropdown:
+
+Goal: “Lose weight / Maintain / Reduce cravings / Simplicity”
+
+Deliver files: link vs attachment
+
+Links are safer for deliverability
+
+Host on your domain or Drive
+
+Extra “think long and hard” ideas (still no backend)
+A) “Challenge Preview” page
+
+Show Day 1 / Day 7 / Day 14 sample emails.
+Huge conversion booster.
+
+B) “Tonight’s Plan” generator (client-side)
+
+Button generates:
+
+1 Real Meal idea
+
+1 snack suggestion
+
+1 protein dessert idea
+No DB required.
+
+C) Printable wall calendar (beautiful PDF)
+
+Include in the packet and feature as a hero image.
+
+D) “Start Here in 90 seconds” video
+
+Embedded short video to boost clarity.
+
+E) Manual social proof capture
+
+“Share your win” form → goes to email → you curate testimonials.

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Lemony Salmon Salad",
+    "category": "Leafy Green Salad",
+    "description": "Bright greens, roasted salmon, and a citrus crunch.",
+    "time": "20 min",
+    "tag": "Protein-first",
+    "filters": ["salad", "20", "protein"]
+  },
+  {
+    "title": "Cozy Turkey Chili",
+    "category": "Soup",
+    "description": "Hearty bowl with beans, turkey, and spice.",
+    "time": "30+ min",
+    "tag": "Family-friendly",
+    "filters": ["soup", "30", "family"]
+  },
+  {
+    "title": "Street-Style Tacos",
+    "category": "2-3 Tacos",
+    "description": "Warm tortillas with steak, salsa, and cabbage.",
+    "time": "20 min",
+    "tag": "Budget",
+    "filters": ["tacos", "20", "budget"]
+  },
+  {
+    "title": "Roast Chicken + Potato",
+    "category": "Meat & One Potato",
+    "description": "Golden chicken, smashed potato, crunchy herbs.",
+    "time": "30+ min",
+    "tag": "Comfort",
+    "filters": ["meat", "30", "family"]
+  },
+  {
+    "title": "Garlic Shrimp Bowl",
+    "category": "Low-carb High-protein",
+    "description": "Zesty shrimp with sauteed veggies and lemon.",
+    "time": "10 min",
+    "tag": "Quick win",
+    "filters": ["lowcarb", "10", "protein"]
+  }
+]
