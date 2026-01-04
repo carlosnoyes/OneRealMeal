@@ -394,6 +394,12 @@ a {
   font-size: 0.85rem;
 }
 
+.filter-chip.active {
+  background: var(--leaf);
+  color: var(--white);
+  border-color: transparent;
+}
+
 .recipe-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));

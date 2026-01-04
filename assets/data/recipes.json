@@ -1,42 +1,50 @@
 [
   {
     "title": "Lemony Salmon Salad",
-    "category": "Leafy Green Salad",
+    "category": "Fuel 1: Real Meal",
     "description": "Bright greens, roasted salmon, and a citrus crunch.",
     "time": "20 min",
     "tag": "Protein-first",
-    "filters": ["salad", "20", "protein"]
+    "filters": ["fuel1", "20", "protein"]
   },
   {
     "title": "Cozy Turkey Chili",
-    "category": "Soup",
+    "category": "Fuel 1: Real Meal",
     "description": "Hearty bowl with beans, turkey, and spice.",
     "time": "30+ min",
     "tag": "Family-friendly",
-    "filters": ["soup", "30", "family"]
+    "filters": ["fuel1", "30", "family"]
+  },
+  {
+    "title": "Crunchy Cottage Snack Box",
+    "category": "Fuel 2: Snack",
+    "description": "Cottage cheese, cucumbers, and everything seasoning.",
+    "time": "10 min",
+    "tag": "Quick win",
+    "filters": ["fuel2", "10", "protein"]
   },
   {
     "title": "Street-Style Tacos",
-    "category": "2-3 Tacos",
+    "category": "Fuel 1: Real Meal",
     "description": "Warm tortillas with steak, salsa, and cabbage.",
     "time": "20 min",
     "tag": "Budget",
-    "filters": ["tacos", "20", "budget"]
+    "filters": ["fuel1", "20", "budget"]
   },
   {
-    "title": "Roast Chicken + Potato",
-    "category": "Meat & One Potato",
-    "description": "Golden chicken, smashed potato, crunchy herbs.",
-    "time": "30+ min",
-    "tag": "Comfort",
-    "filters": ["meat", "30", "family"]
-  },
-  {
-    "title": "Garlic Shrimp Bowl",
-    "category": "Low-carb High-protein",
-    "description": "Zesty shrimp with sauteed veggies and lemon.",
+    "title": "Protein Pudding Cup",
+    "category": "Fuel 3: Protein Dessert",
+    "description": "Chocolate pudding with berries and a crunch topper.",
     "time": "10 min",
-    "tag": "Quick win",
-    "filters": ["lowcarb", "10", "protein"]
+    "tag": "Protein-first",
+    "filters": ["fuel3", "10", "protein"]
+  },
+  {
+    "title": "Greek Yogurt Bowl",
+    "category": "Fuel 3: Protein Dessert",
+    "description": "Creamy yogurt, honey, and cinnamon granola.",
+    "time": "10 min",
+    "tag": "Family-friendly",
+    "filters": ["fuel3", "10", "family"]
   }
 ]
